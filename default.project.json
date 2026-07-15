@@ -1,0 +1,11 @@
+{
+    "name": "FixedMath",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "FixedMath": {
+                "$path": "src"
+            }
+        }
+    }
+}
